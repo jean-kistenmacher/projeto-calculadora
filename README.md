@@ -1,8 +1,6 @@
 # Calculadora JavaScript
 
-Calculadora desenvolvida para o Curso Completo de JavaScript da HCode.
-
-[Hcode Treinamentos](https://www.hcode.com.br)
+Calculadora desenvolvida para o Curso de JavaScript da HCode.
 
 ### Projeto
 

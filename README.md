@@ -1,7 +1,8 @@
 # Calculadora JavaScript
 
 Calculadora desenvolvida para o Curso de JavaScript da HCode.
-[Preview] (https://jean-kistenmacher.github.io/projeto-calculadora/)
+
+[Preview](https://jean-kistenmacher.github.io/projeto-calculadora/)
 
 ### Projeto
 
